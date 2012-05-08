@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"padding-left"
+			],
+			[
+				"PT",
+				"PT120M"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/filtercake/projects/focalendar/index.html",
+			"settings":
+			{
+				"buffer_size": 5069,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n\n	sizeEvents2('.duration', ( (window.innerHeight*0.4)/1440) )\n\n\n\n	function sizeEvents2(targets, dynFactor) {\n			\n			$(targets).each(\n				function () { \n					var ISOduration = $(this).attr(\"title\");\n					var duration = ISOduration.substring(ISOduration.indexOf(1), ISOduration.indexOf('M'));\n					$(parent).height( duration * dynFactor );\n					}\n			);\n	}\n\n\n\n$('.demovevents').each(\n\n	console.log('hello world')\n\n\n\n\n	parent()\n\n\n\n	$('.duration').each($(this).attr(\"title\"))",
+			"settings":
+			{
+				"buffer_size": 472,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/filtercake/projects/focalendar/less/focalendar.less",
+			"settings":
+			{
+				"buffer_size": 2079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/filtercake/projects/focalendar/js/focalendar.js",
+			"settings":
+			{
+				"buffer_size": 4670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/filtercake/projects/focalendar/example.html",
+			"settings":
+			{
+				"buffer_size": 3932,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 332.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"syn rub",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 360.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/filtercake/projects/focalendar/static.rb",
+		"/Users/filtercake/projects/focalendar/static.ru",
+		"/Users/filtercake/projects/focalendar/.gitignore",
+		"/Users/filtercake/projects/focalendar/sketchbook.html",
+		"/Users/filtercake/projects/focalendar/index.html",
+		"/Users/filtercake/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/filtercake/projects/focalendar/example.html",
+		"/Users/filtercake/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/filtercake/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/filtercake/projects/focalendar/.git/config",
+		"/Users/filtercake/projects/focalendar/README.md",
+		"/Users/filtercake/Documents/SPM/c3s/c3s.org-herotheme/index.html",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_defaults.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/all-styles.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/develop/collaborators/index.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/_typekit.html.erb",
+		"/Users/filtercake/projects/frankengrid/partials/_reset.sass",
+		"/Users/filtercake/projects/5apps/apps/store/tmp/sass-cache/5fa0308de70d7e8ff9559e3c5c578e2f093f10ff/_defaults.sassc",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/teaser.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/frontpage/index.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/oauth.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/demos.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/application.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/admin.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/news.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/develop.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/layouts/account.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/develop.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/buttons.scss.erb",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/screen.css.sass.erb",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/admin/base.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/old-css.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/new-screen.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/develop/apps.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/vendor-css.css",
+		"/Users/filtercake/projects/5apps/apps/store/public/apple-touch-icon-72x72-precomposed.png",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/forms.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/pages.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/develop/dashboard.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/develop/settings.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/develop/deployments.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/admin/users.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/admin/apps.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/admin/dashboard.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/account/settings.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/application.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/old-css-collection.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/admin.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/demos.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/forms.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/pages.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/screen.css.sass.erb",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/buttons.scss.erb",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/admin.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/application.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/develop.css",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/old-css.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/handheld.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_base-styles.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_bucket.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_vars.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_admin.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_account.sass",
+		"/Users/filtercake/projects/5apps/all-old-css.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets.bak/account/settings.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_develop.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/account/settings/oauth.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/account/settings/developer.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/account/settings/connections.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/kaminari/_first_page.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_looks.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_positions.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/users/registrations/complete_signup.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/users/_request_dev_account.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/users/show.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/views/devise/confirmations/new.html.haml",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_typography.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_partial-template.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_positioning.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_vars-typography.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_vars-looks.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_vars-positions.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/partials/_look.sass",
+		"/Users/filtercake/projects/5apps/new-screen.css.sass",
+		"/Users/filtercake/projects/5apps/css-notes-admin.css.sass",
+		"/Users/filtercake/projects/5apps/css-notes-screen.css.sass",
+		"/Users/filtercake/projects/5apps/css-notes.css.sass",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/handheld.sass",
+		"/Users/filtercake/projects/hacktable/ratpack/sinatra/rat_pack_server.rb",
+		"/Users/filtercake/projects/hacktable/ratpack/sinatra/views/index.haml",
+		"/Users/filtercake/.ssh/id_rsa.pub",
+		"/Users/filtercake/projects/5apps/apps/store/app/assets/stylesheets/demos.css.sass",
+		"/Users/filtercake/projects/5apps/css-notes.css.sass.erb",
+		"/Users/filtercake/Library/Application Support/Sublime Text 2/Packages/SASS/Syntaxes/SASS.tmLanguage",
+		"/Users/filtercake/projects/5apps/vagrant/settings.yml",
+		"/private/etc/hosts",
+		"/Users/filtercake/projects/5apps/vagrant/Vagrantfile",
+		"/Users/filtercake/Desktop/b",
+		"/Users/filtercake/Downloads/5v3n-ratpack-theworkshop-0cc2475/sinatra/rat_pack_server.rb",
+		"/Users/filtercake/Dropbox/filtercake.com/templates/pages/about.haml",
+		"/Users/filtercake/projects/hackingfordesigners/hfd.com/css/frankengrid-0.3.css.sass",
+		"/Users/filtercake/Dropbox/filtercake.com/templates/pages/menu.haml",
+		"/Users/filtercake/Dropbox/filtercake.com/templates/partials/_test.haml",
+		"/Users/filtercake/Dropbox/filtercake.com/templates/layout.rhtml.bak.html",
+		"/Users/filtercake/Dropbox/filtercake.com/templates/pages/about.rhtml",
+		"/Users/filtercake/Dropbox/filtercake.com/Gemfile.lock",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-31-imagine-a-government-not-so-easily-bought.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-31-the-european-super-highway-of-debt.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-31-after-the-battle-against-sopa--whats-next.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-too-much-too-early.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-articles2012-01-30-welcome-to-every-single-moment-of-your-futuremd.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-summa-cum-mclaude.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-welcome-to-every-single-moment-of-your-future.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-why-ship-it-when-you-can-make-it.md",
+		"/Users/filtercake/Library/Application Support/Mou/CSS/Clearness.css",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-29-the-internet---special-hollywood-edition.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-greece-europes-guinea-pig-update-2.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-30-the-drugs-dont-work.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-greece-europes-guinea-pig-updated.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-kinect-sensors-in-laptops.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-greece-europes-guinea-pig.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-modern-economics-in-500-words.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-bin-and-sbin-vs-usrbin-and-usrsbin.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-accidental-cocaine-at-the-unhq.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-seriouslyjs-realtime-web-video-compositor.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-28-if-you-think-that-pr0n-and-3d-are-the-perfect-couple-think-again.md",
+		"/Users/filtercake/Dropbox/filtercake.com/articles/2012-01-27-the-fallacy-of-data-bubble-ignorance.md",
+		"/Users/filtercake/projects/filtercake.com/articles/2012-01-23-hollywood-is-based-on-piracy.md"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"calen",
+			"render",
+			"size",
+			"substr",
+			"0",
+			"contact",
+			"howitworks",
+			"contact",
+			"howitworks",
+			"blog",
+			"form",
+			"blog",
+			"one",
+			"blog",
+			"bottom_social_icon",
+			"field-group",
+			"title",
+			"twitter",
+			"#dribb",
+			"about",
+			"center",
+			"feat",
+			"work",
+			":hover",
+			"five",
+			"develop",
+			"h3",
+			"app_list",
+			"h2",
+			"develop",
+			"main",
+			"teaser",
+			"<%",
+			"asset_path",
+			"icon",
+			"asset_path",
+			".connections",
+			".account_settings",
+			"Flattr",
+			"button",
+			".account_settings",
+			".account_settings .connections",
+			".account_settings.connections",
+			"monobox",
+			"boring",
+			"admin",
+			"#",
+			"buttons",
+			"p",
+			")",
+			"path",
+			"img",
+			"blockquote",
+			"blockquotw",
+			"blockquote	",
+			"blockquote",
+			"hsla",
+			"color",
+			"url",
+			"r",
+			"dic",
+			"color",
+			"colors",
+			"img",
+			"body",
+			"border",
+			"background-co",
+			"h1",
+			"header",
+			"line-height",
+			"img",
+			"font-size",
+			"header",
+			"url('",
+			"aller_std_it-webfont",
+			"aller_std_bd-webfont",
+			"aller_std_bdit-webfont",
+			"aller_std_bdit-webfont.eot",
+			"aller_std_bd-webfont.eot",
+			".log",
+			"min-height",
+			"row",
+			"container",
+			"two",
+			"section",
+			"row",
+			"toto",
+			"inden",
+			"in",
+			"int",
+			"inten",
+			"ind",
+			"inde",
+			"tab",
+			"find",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"team",
+			"div",
+			"url('/typefaces/AnonPro/",
+			"/typefaces/Aller/aller_std_bd-webfont",
+			"/typefaces/Aller/aller_std_bdit-webfont",
+			"/typefaces/Aller/aller_std_bd-webfont.eot",
+			"unit"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/filtercake/projects/focalendar/index.html",
+					"settings":
+					{
+						"buffer_size": 5069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 382.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/filtercake/projects/focalendar/less/focalendar.less",
+					"settings":
+					{
+						"buffer_size": 2079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1663,
+								1663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/filtercake/projects/focalendar/js/focalendar.js",
+					"settings":
+					{
+						"buffer_size": 4670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 772.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/filtercake/projects/focalendar/example.html",
+					"settings":
+					{
+						"buffer_size": 3932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3406,
+								3406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1619.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.448598639205,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true
+}
