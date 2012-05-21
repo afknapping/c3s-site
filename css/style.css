@@ -81,7 +81,8 @@ section #intro{ font-family:"PodkovaRegular", Times, serif; color:#161616; font-
 .recent-blog .meta, .about-us .position{ margin-bottom:1.25em; font-style:italic; color:#7d7d7d;  font-family:"PodkovaRegular", Times, serif }
 .recent-blog .meta span{ color:#a7a7a7;}
 .person{ float:left; margin-right:20px;}
-.name-position{ margin-bottom:1.5em; float:left;}
+.name-position h2 {font-size:1.6em; }
+.name-position{margin-bottom:1.5em; float:left;}
 #slider_wrap{max-width:977px; margin:0 auto 0px auto; position:relative; clear:both;  padding-bottom:24px; overflow:hidden; height:477px;}
 #recent-project{margin-bottom:2.5em;}
 .title_header img{ float:left; margin-right:10px;}
